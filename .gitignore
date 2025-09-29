@@ -1,0 +1,16 @@
+# VSCode files
+./vscode
+
+# Compiled class files
+*.class
+
+# Maven target folder
+/target/
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
